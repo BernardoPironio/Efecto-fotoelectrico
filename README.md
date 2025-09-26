@@ -1,4 +1,5 @@
 
+
 ![Logo](https://scienceinfo.com/wp-content/uploads/2024/11/Photoelectric-Effect.jpeg)
 # Efecto-Fotoelectrico
 
@@ -31,10 +32,18 @@ Jupyter notbook para el analisis de datos.
 #### Codigo mediciones
 Jupyter notbook para controlar los instrumentos y gurdar las mediciones.
 
+#### Figuras_informe
+Carpeta con las figuras que utilizamos en nuestro informe.
+
+#### Secuencia para el Kurios
+Archivo .xml que contiene cargado las secuencias de 420 nm a 730 nm yendo de a 1 nm. Se puede cargar directamente en el software del Kurios.
+
 
 ## Autores
 
 - [@TomasMastantuono](https://github.com/TomasMastantuono)
 - [@BernardoPironio](https://github.com/BernardoPironio)
 - [@FacundoCaamaño]()
+
+
 
